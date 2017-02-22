@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+    <resources>
+        <declare-styleable name="Porcentaje">
+            <attr name="colorFondo" format="color" />
+            <attr name="colorArco" format="color" />
+            <attr name="colorText" format="color" />
+            <attr name="sizeText" format="integer" />
+
+        </declare-styleable>
+    </resources>
+
+
